@@ -1,0 +1,5 @@
+transformers==4.5.1
+torch==1.8.1
+pytorch_lightning==1.2.10
+pandas
+numpy
