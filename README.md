@@ -4,6 +4,7 @@
 
 # WellnessChatbot for Mental Health
 정신건강을 위한 한국어 상담 챗봇입니다 🙂
+(2021.06.10) 현재 실행 가능한 [Demo](http://147.46.4.201:8501)입니다.
 
 # Based on KoGPT2 (v2)
 KoGPT2 기반 일상대화 챗봇(https://github.com/haven-jeon/KoGPT2-chatbot) 의 코드를 참조하여 재구성하였습니다.
