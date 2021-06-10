@@ -1,3 +1,6 @@
+## Model import error
+
+수정 예정
 
 # WellnessChatbot for Mental Health
 정신건강을 위한 한국어 상담 챗봇입니다 🙂
