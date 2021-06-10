@@ -6,7 +6,7 @@ import streamlit as st
 from transformers import GPT2LMHeadModel, PreTrainedTokenizerFast
 import torch
 
-model = GPT2LMHeadModel.from_pretrained('./finetuned_model')
+model = GPT2LMHeadModel.from_pretrained('eunjin/kogpt2-finetuned-wellness')
 
 U_TKN = '<usr>'
 S_TKN = '<sys>'
